@@ -11,5 +11,4 @@ for(let i=0; i<matches.length; i++){
 }
 let textToShow=finalArr.join(`; `);
 console.log(textToShow);
-
 }
